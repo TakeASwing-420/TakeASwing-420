@@ -38,6 +38,4 @@
 
 </div>
 
----
-
 <div align="center"><b>"Building the future, one block at a time ⛓️"</b></div>
