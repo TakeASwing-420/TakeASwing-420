@@ -24,7 +24,7 @@
 ---
 
 ## 🌟 Featured Projects
-- **[LoFi-fy](https://github.com/deepmondal/lofi-fy):** AI Video-to-LoFi Generator (TypeScript, Tone.js, PyTorch)
+- **[LoFi-fy](https://github.com/TakeASwing-420/lofi-fy):** AI Video-to-LoFi Generator (TypeScript, Tone.js, PyTorch)
 
 ---
 
