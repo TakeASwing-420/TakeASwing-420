@@ -32,7 +32,7 @@
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TakeASwing-420&theme=react-dark&hide_border=true" alt="Deep's Activity Graph" />
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TakeASwing-420&label=Profile%20Views&color=brightgreen&style=flat)
 
