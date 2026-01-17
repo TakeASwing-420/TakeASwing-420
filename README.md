@@ -31,7 +31,7 @@
 
 <div align="center">
   
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakeASwing-420&show_icons=true&theme=radical&count_private=true)
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?user=TakeASwing-420&show_icons=true&theme=radical&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical)
 
