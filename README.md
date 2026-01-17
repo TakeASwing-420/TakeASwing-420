@@ -27,15 +27,18 @@
 - **[LoFi-fy](https://github.com/TakeASwing-420/lofi-fy):** AI Video-to-LoFi Generator (TypeScript, Tone.js, PyTorch)
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=TakeASwing-420&show_icons=true&theme=radical&count_private=true" alt="Deep's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical" alt="GitHub Streak" />
-<img src="https://komarev.com/ghpvc/?username=TakeASwing-420&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakeASwing-420&show_icons=true&theme=radical&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TakeASwing-420&label=Profile%20Views&color=brightgreen&style=flat)
 
 </div>
+
+---
 
 <div align="center"><b>"Building the future, one block at a time ⛓️"</b></div>
