@@ -32,9 +32,9 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=deepmondal&show_icons=true&theme=radical&count_private=true" alt="Deep's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepmondal&theme=radical" alt="GitHub Streak" />
-<img src="https://komarev.com/ghpvc/?username=deepmondal&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+<img src="https://github-readme-stats.vercel.app/api?username=TakeASwing-420&show_icons=true&theme=radical&count_private=true" alt="Deep's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TakeASwing-420&theme=radical" alt="GitHub Streak" />
+<img src="https://komarev.com/ghpvc/?username=TakeASwing-420&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 
 </div>
 
